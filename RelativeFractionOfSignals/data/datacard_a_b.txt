@@ -5,7 +5,7 @@ kmax  *  number of nuisance parameters
 bin          1                2
 observation  9                7
 ---------------------------------------------
-bin          1    1     1     2    2     2  
-process      bkg  siga  sigb  bkg  siga  sigb 
-process      1    0     -1    1    0     -1 
+bin          1    1     1     2    2     2
+process      bkg  siga  sigb  bkg  siga  sigb
+process      1    0     -1    1    0     -1
 rate         5.0  4.0   2.0   5.0  2.0   4.0
